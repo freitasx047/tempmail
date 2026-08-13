@@ -1,0 +1,12 @@
+{
+  "name": "tempmail-manifest",
+  "version": "1.0.0",
+  "description": "Frontend + backend para caixas de e-mail temporárias via TempmailBee",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
